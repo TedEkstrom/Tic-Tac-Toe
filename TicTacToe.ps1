@@ -63,6 +63,8 @@ $art4 = "
 "
 
 function scoreboard ( $P, $A ) {
+
+Write-Host "test: $P and $A"
    
    if ( $P -lt 10 ) {
          
