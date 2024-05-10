@@ -14,7 +14,7 @@ $art = "
     \___/\___/\___//___/\___/\___//___/\___/\___/ Tic Tac Toe
 
     Game by Ted Ekström and the 
-    artwork was genereate by ChatGPT.
+    artwork by ChatGPT.
 "
 $art2 = "
                 
