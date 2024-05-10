@@ -13,7 +13,7 @@ $art = "
     / /__/ _ \/ _ \ / /__/ _ \/ _ \ / /__/ _ \/ _ \
     \___/\___/\___//___/\___/\___//___/\___/\___/ Tic Tac Toe
 
-    The art was genereate by ChatGPT.
+    The artwork was genereate by ChatGPT.
 "
 $art2 = "
                 
@@ -61,7 +61,7 @@ $art4 = "
                            ..   .. 
 "
 
-function scoreboard ( $P=0, $A=0 ) {
+function scoreboard ( $P, $A ) {
    
    $Pp = ""
    $Ap = ""
