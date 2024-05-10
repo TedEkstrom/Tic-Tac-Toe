@@ -138,7 +138,7 @@ $PlayerScore = 0
                         break gameplay
                     } elseif ( $ContinuePlaying -eq "NO" ) {
                         $Continue = $false
-                        scoreboard -PlayerScore $PlayerScore -AIScore $AIScore
+                        scoreboard -P $PlayerScore -A $AIScore
                         break gameplay
                     }
                 }
