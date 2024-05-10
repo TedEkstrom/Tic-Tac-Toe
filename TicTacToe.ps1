@@ -63,9 +63,6 @@ $art4 = "
 
 function scoreboard ( $P, $A ) {
    
-   $Pp = ""
-   $Ap = ""
-
    if ( $P -lt 10 ) {
          
         $Pp = "       "
